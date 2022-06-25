@@ -1,8 +1,2 @@
-#!/usr/bin/env sh
-
-npm run build
-
-cd build
-git init && git add -A && git commit -m 'deploy'
-git remote add origin git@github.com:csugulo/csugulo.github.io.git
-git push -u origin deploy
+#!/bin/bash
+USE_SSH=true DEPLOYMENT_BRANCH=deploy GIT_USER=csugulo npm run deploy

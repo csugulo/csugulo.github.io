@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcsugulo_github_io=self.webpackChunkcsugulo_github_io||[]).push([[77],{4958:s=>{s.exports=JSON.parse('{"label":"c++","permalink":"/blog/tags/c","allTagsPath":"/blog/tags","count":1}')}}]);

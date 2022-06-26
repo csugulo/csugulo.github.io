@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcsugulo_github_io=self.webpackChunkcsugulo_github_io||[]).push([[6870],{1462:s=>{s.exports=JSON.parse('{"label":"clashX","permalink":"/zh-Hans/blog/tags/clash-x","allTagsPath":"/zh-Hans/blog/tags","count":1}')}}]);

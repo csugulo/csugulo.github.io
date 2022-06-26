@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcsugulo_github_io=self.webpackChunkcsugulo_github_io||[]).push([[2952],{9882:s=>{s.exports=JSON.parse('{"label":"openwrt","permalink":"/blog/tags/openwrt","allTagsPath":"/blog/tags","count":1}')}}]);

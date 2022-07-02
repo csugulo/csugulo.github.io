@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcsugulo_github_io=self.webpackChunkcsugulo_github_io||[]).push([[1766],{4844:s=>{s.exports=JSON.parse('{"label":"elasticsearch","permalink":"/zh-Hans/blog/tags/elasticsearch","allTagsPath":"/zh-Hans/blog/tags","count":1}')}}]);

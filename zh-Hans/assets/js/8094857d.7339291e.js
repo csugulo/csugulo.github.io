@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcsugulo_github_io=self.webpackChunkcsugulo_github_io||[]).push([[8681],{1378:a=>{a.exports=JSON.parse('{"label":"kibana","permalink":"/zh-Hans/blog/tags/kibana","allTagsPath":"/zh-Hans/blog/tags","count":1}')}}]);
